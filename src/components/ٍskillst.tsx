@@ -1,11 +1,7 @@
 import {
   Code2,
   Globe,
-  Palette,
   Wrench,
-  Database,
-  GitBranch,
-  MonitorSmartphone,
   Lightbulb,
 } from "lucide-react";
 

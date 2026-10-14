@@ -1,7 +1,6 @@
 import { useState, type FormEvent } from "react";
 import {
   Mail,
- FolderGit2,
  Link,
   Send,
   MapPin,

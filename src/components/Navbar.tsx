@@ -1,4 +1,4 @@
-import { Code2,BookOpen, Menu, X } from "lucide-react";
+import { BookOpen, Menu, X } from "lucide-react";
 import { useState } from "react";
 import type { Theme } from "../App";
 import ThemeToggle from "./ThemeToggle";
